@@ -1,0 +1,53 @@
+
+* {
+	font-family: Georgia, serif;
+	color: #0a0a0a;
+	text-align: center;}
+body {
+	width: 960px;
+	margin: 0 auto;
+	border: ridge;
+	background-color: #d8d5d8;
+}
+
+nav {
+	background-color: : #cfabbc;
+	padding: 10px;
+	margin: 40px;
+}
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+
+}
+
+main {
+	background-color: #cfabbc;
+	padding: 15px;
+	margin: 10px;
+	border: ridge;
+}
+
+article {
+	background-color: #cfabbc;
+	padding: 10px;
+	margin: 10px;
+	width: 277px;
+	height: 200px;
+	float: inline-start;
+	font-size: 20.5px;
+	border: ridge;
+}
+
+
+footer {
+	background-color: #cfabbc;
+	padding: 10px;
+	margin: 10px;
+	border: ridge;
+}
